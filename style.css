@@ -78,8 +78,8 @@ body {
   border-radius: 20px;
   padding: 32px;
   height: 860px;
-  width: 500px;
-
+  width: 782px;
+  overflow-y: scroll;
 }
 
 .projetos-titulo {
@@ -139,7 +139,7 @@ body {
   border-radius: 20px;
   padding: 32px;
   height: 860px;
-  width: 200px;
+  width: 220px;
   overflow-y: scroll;
 }
 
