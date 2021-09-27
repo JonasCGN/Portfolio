@@ -159,3 +159,12 @@ body {
   text-align: center;
   list-style-type: none;
 }
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 720px) {
+  .projetos {
+    width: 45%;
+  }
+  .portfolio {
+    width: 821px;
+  }
+}
