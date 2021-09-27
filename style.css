@@ -213,10 +213,12 @@ body {
 
   .conquistas img {
     max-height: 78px;
+    margin-left: 30px;
   }
 
   .projetos-trabalho {
     font-size: 50%;
-    text-align: center;
+    display: flex;
+    align-items: center;
   }
 }
