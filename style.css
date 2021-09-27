@@ -162,7 +162,7 @@ body {
 
 @media only screen and (min-device-width: 320px) and (max-device-width: 720px) {
   .portfolio {
-    max-height: 800px;
+    width: 821px;
     overflow-y: scroll;
   }
 
@@ -180,9 +180,6 @@ body {
   .projetos {
     width: 52.47%;
     max-height: 30%;
-  }
-  .portfolio {
-    width: 821px;
   }
 
   .projetos-titulo {
