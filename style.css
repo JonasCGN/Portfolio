@@ -1,7 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@406&display=swap");
 
 body {
-  min-height: 854px;
   background-image: url("https://images4.alphacoders.com/840/840709.jpg");
   background-repeat: no-repeat;
   background-size: cover;
@@ -170,6 +169,10 @@ body {
 }
 
 @media only screen and (min-device-width: 280px) and (max-device-width: 720px) {
+  body {
+  width: 100%;
+  }
+  
   .portfolio {
     margin: 20px;
     overflow-y: scroll;
